@@ -6,5 +6,6 @@ int main(void){
 	char c;
 	scanf("%c",&c);
 	printf("Java\n");
+	printf("Hot-fix\n");
 	return 0;
 }

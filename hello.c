@@ -5,5 +5,6 @@ int main(void){
 	printf("Hello,Git!!!\n");
 	char c;
 	scanf("%c",&c);
+	printf("Hot-fix\n");
 	return 0;
 }
